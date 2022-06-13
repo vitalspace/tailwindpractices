@@ -1,0 +1,25 @@
+{
+  "name": "tailwindpractices",
+  "version": "1.0.0",
+  "description": "tailwindpractices",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start" : "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalspace/tailwindpractices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitalspace/tailwindpractices/issues"
+  },
+  "homepage": "https://github.com/vitalspace/tailwindpractices#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
